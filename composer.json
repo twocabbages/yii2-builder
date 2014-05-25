@@ -1,8 +1,8 @@
 {
-    "name": "kartik-v/yii2-builder",
+    "name": "twocabbages/yii2-builder",
     "description": "Build forms (single-row or multi-row/tabular) easily for Yii Framework 2.0",
     "keywords": ["yii2", "extension", "widget", "form", "builder"],
-    "homepage": "https://github.com/kartik-v/yii2-builder",
+    "homepage": "https://github.com/twocabbages/yii2-builder",
     "type": "yii2-extension",
     "license": "BSD 3-Clause",
     "authors": [
